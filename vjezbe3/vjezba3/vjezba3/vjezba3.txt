@@ -1,0 +1,7 @@
+Ispis studenata: 
+zeljko aleks 2222
+ivo andric 1999
+jure baric 2003
+andro caric 2004
+vino juric 2222
+kuzma pecotic 2002

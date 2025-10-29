@@ -1,0 +1,5 @@
+﻿  vj3.c
+C:\Users\SD\Desktop\strukture_podataka\vjezbe3\vjezba3\vjezba3\vj3.c(356,11): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe3\vjezba3\vjezba3\vj3.c(380,11): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe3\vjezba3\vjezba3\vj3.c(283): warning C4715: 'AddInFront': not all control paths return a value
+  vjezba3.vcxproj -> C:\Users\SD\Desktop\strukture_podataka\vjezbe3\vjezba3\Debug\vjezba3.exe
