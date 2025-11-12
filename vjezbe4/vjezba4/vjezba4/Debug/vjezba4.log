@@ -1,0 +1,5 @@
+﻿  vj4.c
+C:\Users\SD\Desktop\strukture_podataka\vjezbe4\vjezba4\vjezba4\vj4.c(52,28): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe4\vjezba4\vjezba4\vj4.c(87,36): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe4\vjezba4\vjezba4\vj4.c(121,28): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  vjezba4.vcxproj -> C:\Users\SD\Desktop\strukture_podataka\vjezbe4\vjezba4\Debug\vjezba4.exe
