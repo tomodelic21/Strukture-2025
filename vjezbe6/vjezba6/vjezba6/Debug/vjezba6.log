@@ -1,0 +1,8 @@
+﻿  vj6.c
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(83,26): warning C4133: '=': incompatible types - from '_rceipt *' to 'Receipt *'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(86,22): warning C4133: '=': incompatible types - from 'Receipt *' to '_rceipt *'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(88,27): warning C4133: '=': incompatible types - from 'Receipt *' to '_rceipt *'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(167,26): warning C4133: '=': incompatible types - from '_rceipt *' to 'Receipt *'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(201,26): warning C4133: '=': incompatible types - from '_rceipt *' to 'Receipt *'
+C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\vjezba6\vj6.c(222,26): warning C4133: '=': incompatible types - from '_rceipt *' to 'Receipt *'
+  vjezba6.vcxproj -> C:\Users\SD\Desktop\strukture_podataka\vjezbe6\vjezba6\Debug\vjezba6.exe
